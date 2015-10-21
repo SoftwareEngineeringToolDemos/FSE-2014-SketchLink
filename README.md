@@ -4,7 +4,7 @@ Linking Sketches and Diagrams to Source Code Artifacts
 
 This repository contains information related to the tool SketchLink presented in the Foundations of Software Engineering, 2014. The tool was originally presented in <a href="http://dl.acm.org/citation.cfm?id=2661672&dl=ACM&coll=DL&CFID=717271653&CFTOKEN=32010874">this paper</a>.
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository *is not* the original repository for this tool. Here are some links to the original project:
 
 <a href="http://www.uni-trier.de/index.php?id=54142&L=2">The Official Project Page, including video on tool.</a>
 
