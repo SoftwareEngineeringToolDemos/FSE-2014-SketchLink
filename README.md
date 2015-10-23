@@ -6,7 +6,10 @@ This repository contains information related to the tool SketchLink presented in
 
 This repository *is not* the original repository for this tool. Here are some links to the original project:
 
-<a href="http://www.uni-trier.de/index.php?id=54142&L=2">The Official Project Page, including video on tool.</a>
+<ul>
+<li><a href="http://www.uni-trier.de/index.php?id=54142&L=2">The Official Project Page</a></li>
+<li><a href="https://www.youtube.com/watch?v=3IuLKZx7Wbs">The Official Video link</a></li>
+</ul>
 
 In this repository, for Example Tool you will find:
 
