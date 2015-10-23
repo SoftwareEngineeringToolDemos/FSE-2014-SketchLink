@@ -11,7 +11,7 @@ This repository *is not* the original repository for this tool. Here are some li
 <li><a href="https://www.youtube.com/watch?v=3IuLKZx7Wbs">The Official Video link</a></li>
 </ul>
 
-In this repository, for Example Tool you will find:
+In this repository, for Sketchlink Tool you will find:
 
 :x: Source code (not available)
 
