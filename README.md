@@ -8,7 +8,7 @@ This repository is not the original repository for this tool. Here are some link
 
 <a href="http://www.uni-trier.de/index.php?id=54142&L=2">The Official Project Page, including video on tool.</a>
 
-In this repository, for SketchLink you will find:
+In this repository, for Example Tool you will find:
 
 :x: Source code (not available)
 
