@@ -1,4 +1,4 @@
-The following steps shows how you can spin up a Virtual Machine for tool SketchLink :
+The following steps shows how you can spin up a Virtual Machine for tool <b>SketchLink</b> :
 
 <ul>
 <li>Install vagrant and virtualbox on your host machine.</li>
@@ -6,7 +6,7 @@ The following steps shows how you can spin up a Virtual Machine for tool SketchL
 <li>From the host, navigate to that folder and execute the command : "vagrant up"</li>
 </ul>
 
-Note :
+<h4>Note :</h4>
 
 1. The Virtual Machine will boot up quickly and but the "vagrant up" command runs for nearly half an hour to complete as it provisions the VM for use when ran for the first time.
 2. Deploys Base Vagrant Box : Ubuntu 14.04 Desktop
