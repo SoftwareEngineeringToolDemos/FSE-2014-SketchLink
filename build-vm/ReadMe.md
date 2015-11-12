@@ -14,7 +14,7 @@ The following steps shows how you can spin up a Virtual Machine for tool <b>Sket
     user: vagrant
     password: vagrant
 
-References :
+<h5>References :</h5>
 
 A vagrant tutorial can be found [here](https://docs.vagrantup.com/v2/getting-started/index.html)<br/>
 The binaries for vagrant can be found [here](https://www.vagrantup.com/downloads.html)<br/>
