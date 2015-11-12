@@ -1,8 +1,10 @@
 The following steps shows how you can spin up a Virtual Machine for tool SketchLink :
 
--> Install vagrant and virtualbox on your host machine.
--> Download the Vagrantfile from build-vm folder on your machine and save it in a folder where you want to install the VM.
--> From the host, navigate to that folder and execute the command : "vagrant up"
+<ul>
+<li>Install vagrant and virtualbox on your host machine.</li>
+<li>Download the Vagrantfile from build-vm folder on your machine and save it in a folder where you want to install the VM.</li>
+<li>From the host, navigate to that folder and execute the command : "vagrant up"</li>
+</ul>
 
 Note :
 
@@ -14,7 +16,7 @@ Note :
 
 References :
 
-A vagrant tutorial can be found [here](https://docs.vagrantup.com/v2/getting-started/index.html)
-The binaries for vagrant can be found [here](https://www.vagrantup.com/downloads.html)
+A vagrant tutorial can be found [here](https://docs.vagrantup.com/v2/getting-started/index.html)<br/>
+The binaries for vagrant can be found [here](https://www.vagrantup.com/downloads.html)<br/>
 Vagrant tutotial by Dustin Barnes,Vagrant Tutorial
 
